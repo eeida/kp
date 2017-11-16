@@ -1,1 +1,1 @@
-# kp Koło Programistyczne SWPS repository
+# kp KP repository
